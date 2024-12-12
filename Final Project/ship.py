@@ -20,3 +20,4 @@ class Ship:
     def place(self, coordinates):
         """Assigns coordinates to the ship."""
         self.coordinates = coordinates
+
